@@ -1,2 +1,2 @@
-# publications
+# Publications
 All the public stuff
